@@ -1,0 +1,2 @@
+Isaac: 2 (hard)
+John: 3 (medium)
